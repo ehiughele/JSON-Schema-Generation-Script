@@ -1,0 +1,45 @@
+{
+    "user": {
+        "id": {
+            "type": "str",
+            "tag": "",
+            "description": "",
+            "required": false
+        },
+        "nickname": {
+            "type": "str",
+            "tag": "",
+            "description": "",
+            "required": false
+        },
+        "title": {
+            "type": "str",
+            "tag": "",
+            "description": "",
+            "required": false
+        },
+        "accountType": {
+            "type": "str",
+            "tag": "",
+            "description": "",
+            "required": false
+        },
+        "countryCode": {
+            "type": "str",
+            "tag": "",
+            "description": "",
+            "required": false
+        },
+        "orientation": {
+            "type": "str",
+            "tag": "",
+            "description": "",
+            "required": false
+        }
+    },
+    "time": null,
+    "acl": null,
+    "publicFeed": null,
+    "internationalCountries": null,
+    "topTraderFeed": null
+}
